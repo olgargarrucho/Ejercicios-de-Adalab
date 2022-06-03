@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+html {
+    font-size: 62.5%;
+    
+}
+.container {
+    background-color: red;
+    display: flexbox;
+    flex-direction:row;
+    flex-wrap: nowrap;
+                
+}
+.item {
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: white;
+    color: orange;
+    text-align: center;
+    font-size: 3rem;
+            
+}
