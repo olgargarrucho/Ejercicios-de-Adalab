@@ -1,0 +1,20 @@
+html {
+    background-color: blue;
+    
+}
+
+@media (max-width: 480px) {
+    html {
+        background-color: red;
+    }
+}
+@media (min-width: 480px) {
+    html {
+        background-color: yellow;
+    }
+}
+@media (min-width: 768px) {
+    html {
+        background-color: green;
+    }
+}
