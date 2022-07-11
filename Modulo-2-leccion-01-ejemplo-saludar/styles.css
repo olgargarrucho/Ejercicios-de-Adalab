@@ -1,0 +1,12 @@
+.button-1, .button-2 {
+    padding: 15px;
+    border: solid 5px orange;
+    color: aqua;
+}
+
+.hidden {
+    opacity: 50%;
+}
+.background {
+    background-color: red;
+}
